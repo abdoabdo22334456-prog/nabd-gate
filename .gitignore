@@ -1,0 +1,28 @@
+# Generated audio plugins, installers and archives are release assets.
+*.exe
+*.dll
+*.vst3
+*.vst3/
+*.zip
+*.o
+*.obj
+*.pdb
+*.ilk
+*.lib
+*.exp
+
+# Build intermediates and dependency downloads.
+build/
+build-*/
+vst3sdk/
+toolchain/
+.vs/
+.vscode/
+Thumbs.db
+Desktop.ini
+
+# Local environment and credential files.
+.env
+.env.*
+*.pem
+*.key

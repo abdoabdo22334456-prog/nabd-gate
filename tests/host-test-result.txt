@@ -1,0 +1,1 @@
+PASS: 304653 checks (DLL load, sync, audio, automation, state, native editor, DPI).

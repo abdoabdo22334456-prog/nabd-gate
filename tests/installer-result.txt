@@ -1,0 +1,1 @@
+INSTALLED_AND_VERIFIED: C:\Program Files\Common Files\VST3/Nabd Gate.vst3
